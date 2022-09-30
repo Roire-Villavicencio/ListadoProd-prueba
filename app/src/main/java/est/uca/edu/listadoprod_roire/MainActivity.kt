@@ -107,7 +107,7 @@ class MainActivity : AppCompatActivity() {
         binding.btnAgregar.setOnClickListener {
             agregarProd()
         }
-        binding.btnDespegar.setOnClickListener {
+        binding.btnDespejar.setOnClickListener {
             limpiar()
         }
     }

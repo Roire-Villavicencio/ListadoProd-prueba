@@ -91,7 +91,6 @@
                 android:text="Editar"
                 android:textSize="11sp"
                 android:backgroundTint="@color/yellow_500"/>
-            />
 
         </LinearLayout>
 
