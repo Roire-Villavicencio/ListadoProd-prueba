@@ -89,7 +89,9 @@
                 android:layout_marginTop="2dp"
                 android:layout_marginRight="8dp"
                 android:text="Editar"
-                android:textSize="11sp" />
+                android:textSize="11sp"
+                android:backgroundTint="@color/yellow_500"/>
+            />
 
         </LinearLayout>
 
